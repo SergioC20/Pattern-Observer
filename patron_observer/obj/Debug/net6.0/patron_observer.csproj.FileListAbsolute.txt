@@ -1,0 +1,15 @@
+C:\Users\chejo\Desktop\patron_observer\patron_observer\bin\Debug\net6.0\patron_observer.exe
+C:\Users\chejo\Desktop\patron_observer\patron_observer\bin\Debug\net6.0\patron_observer.deps.json
+C:\Users\chejo\Desktop\patron_observer\patron_observer\bin\Debug\net6.0\patron_observer.runtimeconfig.json
+C:\Users\chejo\Desktop\patron_observer\patron_observer\bin\Debug\net6.0\patron_observer.dll
+C:\Users\chejo\Desktop\patron_observer\patron_observer\bin\Debug\net6.0\patron_observer.pdb
+C:\Users\chejo\Desktop\patron_observer\patron_observer\obj\Debug\net6.0\patron_observer.csproj.AssemblyReference.cache
+C:\Users\chejo\Desktop\patron_observer\patron_observer\obj\Debug\net6.0\patron_observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chejo\Desktop\patron_observer\patron_observer\obj\Debug\net6.0\patron_observer.AssemblyInfoInputs.cache
+C:\Users\chejo\Desktop\patron_observer\patron_observer\obj\Debug\net6.0\patron_observer.AssemblyInfo.cs
+C:\Users\chejo\Desktop\patron_observer\patron_observer\obj\Debug\net6.0\patron_observer.csproj.CoreCompileInputs.cache
+C:\Users\chejo\Desktop\patron_observer\patron_observer\obj\Debug\net6.0\patron_observer.dll
+C:\Users\chejo\Desktop\patron_observer\patron_observer\obj\Debug\net6.0\refint\patron_observer.dll
+C:\Users\chejo\Desktop\patron_observer\patron_observer\obj\Debug\net6.0\patron_observer.pdb
+C:\Users\chejo\Desktop\patron_observer\patron_observer\obj\Debug\net6.0\patron_observer.genruntimeconfig.cache
+C:\Users\chejo\Desktop\patron_observer\patron_observer\obj\Debug\net6.0\ref\patron_observer.dll
